@@ -707,6 +707,12 @@ footer {
      background-color: #088178;
 }
 
+/* About Page */
+
+#page-header.about-header {
+     background-image: url(img/about/banner.png);
+}
+
 /* Responsive */
 
 @media (max-width: 799px) {
