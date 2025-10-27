@@ -262,15 +262,17 @@ button.white {
 
 #product1 .pro .cart {
      width: 40px;
-     line-height: 40px;
-     border-radius: 50%;
      background-color: #e8f6ea;
-     font-weight: 500;
-     color: #088178;
+     border-radius: 50%;
      border: 1px solid #cce7d0;
+     color: #088178;
+     font-weight: 500;
      position: absolute;
      bottom: 20px;
      right: 10px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
 }
 
 #product1 .pro:hover {
